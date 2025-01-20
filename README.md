@@ -50,11 +50,20 @@ I enjoy exploring new technologies, learning continuously, and leveraging my ski
 
 ## 📈 GitHub Stats
 
-![Oussama Elfarissi's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfarissio15&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elfarissio15&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfarissio15&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=elfarissio15&show_icons=true&theme=radical" alt="Oussama Elfarissi's GitHub stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=elfarissio15&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfarissio15&layout=compact&theme=dracula&langs_count=20" alt="Top Languages" />
+</div>
 
 ---
 
