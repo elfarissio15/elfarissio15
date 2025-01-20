@@ -50,7 +50,7 @@ I enjoy exploring new technologies, learning continuously, and leveraging my ski
 
 ## 📈 GitHub Stats
 
-![Oussama Elfarissi's GitHub stats](https://github-readme-stats.vercel.app/apiusername=elfarissio15&show_icons=true&theme=radical)
+![Oussama Elfarissi's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfarissio15&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elfarissio15&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
