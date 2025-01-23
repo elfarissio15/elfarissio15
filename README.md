@@ -1,5 +1,9 @@
 ## Hi there 👋, my name is Oussama Elfarissi
 
+![Profile Views](https://komarev.com/ghpvc/?username=elfarissio15&color=blue)
+<!--![GitHub Followers](https://img.shields.io/github/followers/elfarissio15?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/elfarissio15?label=Stars&style=social)-->
+
 I am a Full Stack Developer with a strong passion for designing and building scalable, efficient, and user-centric web and software solutions. My expertise spans across various programming languages, frameworks, and tools, enabling me to tackle a wide range of challenges and deliver high-quality results.
 
 I enjoy exploring new technologies, learning continuously, and leveraging my skills to create impactful projects. I am a problem solver at heart and am dedicated to crafting innovative and elegant solutions.
