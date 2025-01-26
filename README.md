@@ -82,7 +82,7 @@ I enjoy exploring new technologies, learning continuously, and leveraging my ski
 </div>
 
 ---
-<!--Comment   -->
+<!--Comment-->
 ## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-el-farissi)
