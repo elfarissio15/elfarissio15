@@ -57,35 +57,42 @@ I enjoy exploring new technologies, learning continuously, and leveraging my ski
 <!--![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)-->
 <!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
 
----
-
-## 📂 My Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://elfarissi-portfolio.vercel.app/)
-
----
 
 ## 📈 GitHub Stats
 
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
+
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=elfarissio15&show_icons=true&theme=radical" alt="Oussama Elfarissi's GitHub stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=elfarissio15&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfarissio15&layout=compact&theme=dracula&langs_count=20" alt="Top Languages" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elfarissio15&theme=2077" height="180em" />
+  
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elfarissio15&theme=2077" height="180em" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elfarissio15&theme=2077" height="180em" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elfarissio15&theme=2077" height="180em" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elfarissio15&theme=2077" height="180em" width="615em" />
 </div>
+
+
+<!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=elfarissio15&theme=redical"/>-->
+
+
+<!--<img src="https://github-readme-stats.vercel.app/api?username=elfarissio15&show_icons=true&theme=radical" alt="Oussama Elfarissi's GitHub stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=elfarissio15&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfarissio15&layout=compact&theme=dracula&langs_count=20" alt="Top Languages" />-->
 
 ---
 <!--Comment-->
 ## 📬 Contact Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://elfarissi-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-el-farissi)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elfarissio15)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamaelfarissi2005@gmail.com)
+
+
+
