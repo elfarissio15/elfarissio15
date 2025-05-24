@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Oussama Elfarissi
+## Hi there 👋, my name is Oussama El farissi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elfarissio15&color=blue)
 <!--![GitHub Followers](https://img.shields.io/github/followers/elfarissio15?label=Followers&style=social)
@@ -85,8 +85,8 @@ I enjoy exploring new technologies, learning continuously, and leveraging my ski
 
 <!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=elfarissio15&theme=redical"/>-->
 
-
-<!--<img src="https://github-readme-stats.vercel.app/api?username=elfarissio15&show_icons=true&theme=radical" alt="Oussama Elfarissi's GitHub stats" />
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=elfarissio15&show_icons=true&theme=radical" alt="Oussama Elfarissi's GitHub stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=elfarissio15&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
