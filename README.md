@@ -65,7 +65,7 @@ I enjoy exploring new technologies, learning continuously, and leveraging my ski
 <!--![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)-->
 
 
-## 🐍 My Contributions
+<!--## 🐍 My Contributions
 
 <div align="center">
   <picture>
@@ -75,7 +75,7 @@ I enjoy exploring new technologies, learning continuously, and leveraging my ski
   </picture>
 </div>
 
-<hr>
+<hr>-->
 
 ## 📈 GitHub Stats
 
