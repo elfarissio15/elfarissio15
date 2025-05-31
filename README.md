@@ -83,15 +83,15 @@ I enjoy exploring new technologies, learning continuously, and leveraging my ski
 
 <div align="center">
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elfarissio15&theme=2077" height="180em" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elfarissio15&theme=2077" height="180em" />
   
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elfarissio15&theme=2077" height="180em" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elfarissio15&theme=2077" height="180em" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elfarissio15&theme=2077" height="180em" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elfarissio15&theme=2077" height="180em" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elfarissio15&theme=2077" height="180em" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elfarissio15&theme=2077" height="180em" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elfarissio15&theme=2077" height="180em" width="615em" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elfarissio15&theme=2077" height="180em" width="615em" />
 </div>
 
 
