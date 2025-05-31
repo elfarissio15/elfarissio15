@@ -1,6 +1,10 @@
 ## Hi there 👋, my name is Oussama El farissi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elfarissio15&color=blue)
+<!--<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{elfarissio15}/count.svg" alt="Visitor's Count" />
+</div>-->
 <!--![GitHub Followers](https://img.shields.io/github/followers/elfarissio15?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/elfarissio15?label=Stars&style=social)-->
 
@@ -62,7 +66,17 @@ I enjoy exploring new technologies, learning continuously, and leveraging my ski
 
 
 
+<!--## 🐍 My Contributions
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{elfarissio15}/{elfarissio15}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{elfarissio15}/{elfarissio15}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{elfarissio15}/{elfarissio15}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>-->
 
 
 ## 📈 GitHub Stats
